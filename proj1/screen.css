@@ -50,3 +50,11 @@ table {
 	border-spacing: 0;
 }
 /* stylelint-enable */
+
+#content {
+  /* 22px base w/ 1.414 ratio (https://www.modularscale.com/?22&px&1.414)
+      & 26px line height */
+  font-size: 1.375em; /* 22px/16px = 1.375em */
+  line-height: 1.181818em; /* 26px/22px = 1.181818em */
+  font-family: "Open Sans", sans-serif;
+}
