@@ -82,6 +82,11 @@ h2 {
   padding-top: 0.274424em; /* 13px/47.372px = 0.274424em */
 }
 
+article + article {
+  margin-top: 1em;
+  border-top: 2px solid;
+}
+
 h3 {
   font-size: 1.7769em; /* 35.538px/20px = 1.7769em */
   line-height: 1.097417em; /* 39px/35.538px = 1.097417em */
