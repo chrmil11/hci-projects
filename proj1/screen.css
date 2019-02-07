@@ -57,7 +57,7 @@ table {
   font-size: 1.25em; /* 20px/16px = 1.25em */
   line-height: 1.3em; /* 26px/20px = 1.3em */
   font-family: "Open Sans", sans-serif;
-  padding: 0 1.3em;
+  padding: 0 1em;
   display: block;
 }
 
@@ -67,7 +67,7 @@ header {
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding: 0.548847em; /* 26px/47.372px = 0.548847em */
+  padding: 0.42219em; /* 20px/47.372px = 0.42219em */
   display: cell;
   background-color: #cc0000;
   color: #ffffff;
@@ -80,8 +80,8 @@ footer {
   display: block;
   background-color: #cc0000;
   color: #eeeeee;
-  padding: 1.732871em;
-  margin-top: 1.732871em;
+  padding: 1.25em; /* 20px / 16px = 1.25em */
+  margin-top: 1.625em; /* 26px/16px = 1.625em */
 }
 
 h2 {
