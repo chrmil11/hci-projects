@@ -67,8 +67,10 @@ header {
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding: 0 0.411738em 0; /* 26px/63.147px = 0.411738em */
-  display: block;
+  padding: 0.411738em; /* 26px/63.147px = 0.411738em */
+  display: cell;
+  background-color: #cc0000;
+  color: #ffffff;
 }
 
 h2 {
