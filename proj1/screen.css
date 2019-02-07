@@ -107,12 +107,12 @@ h3 {
   padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
 }
 
-p + p, section > p + img {
-  padding-top: 1.3em;
-}
-
 img {
   width: 100%;
+}
+
+p + p, section > p + img {
+  padding-top: 1.3em;
 }
 
 li > p {
