@@ -73,6 +73,17 @@ header {
   color: #ffffff;
 }
 
+footer {
+  font-size: 0.93775em; /* 15.004px/16px = 0.93775em */
+  line-height: 1.732871em; /* 26px/15.004px = 1.732871em */
+  font-family: "Open Sans", sans-serif;
+  display: block;
+  background-color: #cc0000;
+  color: #eeeeee;
+  padding: 1.732871em;
+  margin-top: 1.732871em;
+}
+
 h2 {
   font-size: 2.3686em; /* 47.372px/20px = 2.3686em */
   line-height: 1.097695em; /* 52px/47.372px = 1.097695em */
