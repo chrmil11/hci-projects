@@ -58,6 +58,7 @@ table {
   line-height: 1.3em; /* 26px/20px = 1.3em */
   font-family: "Open Sans", sans-serif;
   padding: 0 1.3em;
+  display: block;
 }
 
 header {
@@ -67,6 +68,7 @@ header {
   text-transform: uppercase;
   font-style: italic;
   padding: 0 0.411738em 0; /* 26px/63.147px = 0.411738em */
+  display: block;
 }
 
 h2 {
