@@ -58,3 +58,9 @@ table {
   line-height: 1.181818em; /* 26px/22px = 1.181818em */
   font-family: "Open Sans", sans-serif;
 }
+
+header {
+  font-size: 3.887313em; /* 62.197px/16px = 3.887313em */
+  line-height: 1.045066em; /* 65px/62.197px = 1.045066em */
+  font-family: "Doppio One", sans-serif;
+}
