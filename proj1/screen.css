@@ -64,5 +64,15 @@ header {
   font-size: 3.887313em; /* 62.197px/16px = 3.887313em */
   line-height: 1.045066em; /* 65px/62.197px = 1.045066em */
   font-family: "Doppio One", sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
   padding: 0 0.353715em; /* 22px/62.197px = 0.353715em */
+}
+
+h2 {
+  font-size: 1.999409em; /* 43.987px/22px = 1.999409em */
+  line-height: 1.182167em; /* 52px/43.987px = 1.182167em */
+  font-family: "Doppio One", sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
 }
