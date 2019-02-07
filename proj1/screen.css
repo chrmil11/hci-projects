@@ -74,12 +74,12 @@ header {
 }
 
 h2 {
-  font-size: 1.7769em; /* 35.538px/20px = 1.7769em */
-  line-height: 1.097417em; /* 39px/35.538px = 1.097417em */
+  font-size: 2.3686em; /* 47.372px/20px = 2.3686em */
+  line-height: 1.097695em; /* 52px/47.372px = 1.097695em */
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
+  padding-top: 0.274424em; /* 13px/47.372px = 0.274424em */
 }
 
 p + p, section > p + img {
