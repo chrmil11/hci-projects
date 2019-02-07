@@ -80,7 +80,7 @@ h2 {
   padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
 }
 
-p + p {
+p + p, section > p + img {
   padding-top: 1.3em;
 }
 
