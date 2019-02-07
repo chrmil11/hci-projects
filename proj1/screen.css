@@ -61,12 +61,12 @@ table {
 }
 
 header {
-  font-size: 2.96075em; /* 47.372px/16px = 2.96075em */
-  line-height: 1.097695em; /* 52px/47.372px = 1.097695em */
+  font-size: 3.946688em; /* 63.147px/16px = 3.9466875em */
+  line-height: 1.029344em; /* 65/63.147px = 1.029344em */
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding: 0 0.548847em; /* 26px/47.372px = 0.548847em */
+  padding: 0 0.411738em 0; /* 26px/63.147px = 0.411738em */
 }
 
 h2 {
