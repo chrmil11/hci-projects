@@ -78,6 +78,10 @@ h2 {
   padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
 }
 
+p + p {
+  padding-top: 1.3em;
+}
+
 img {
   width: 100%;
 }
