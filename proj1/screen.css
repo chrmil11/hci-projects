@@ -75,5 +75,10 @@ h2 {
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding-top: 0.365806em; /* 35.538px/20px = 0.365806em */
+  padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
+}
+
+img {
+  padding-top: 1.3em;
+  width: 100%;
 }
