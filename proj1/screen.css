@@ -83,8 +83,9 @@ img {
 }
 
 li > p {
-  font-size: 1.7769em; /* 35.538px/20px = 1.7769em */
-  line-height: 1.097417em; /* 39px/35.538px = 1.097417em */
+  font-size: 1.5em; /* 30px/20px = 1.5em */
+  line-height: 1.3em; /* 39px/30px = 1.3em */
   font-family: "Doppio One", sans-serif;
+  text-transform: uppercase;
   text-align: center;
 }
