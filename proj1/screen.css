@@ -82,6 +82,15 @@ h2 {
   padding-top: 0.274424em; /* 13px/47.372px = 0.274424em */
 }
 
+h3 {
+  font-size: 1.7769em; /* 35.538px/20px = 1.7769em */
+  line-height: 1.097417em; /* 39px/35.538px = 1.097417em */
+  font-family: "Doppio One", sans-serif;
+  text-transform: uppercase;
+  font-style: italic;
+  padding-top: 0.365806em; /* 13px/35.538px = 0.365806em */
+}
+
 p + p, section > p + img {
   padding-top: 1.3em;
 }
