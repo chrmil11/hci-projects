@@ -123,3 +123,11 @@ li > p {
   text-align: center;
   padding-top: 0.666667em;
 }
+
+footer a {
+  color: #dddd00;
+}
+
+a:hover {
+  color: #00dddd;
+}
