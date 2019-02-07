@@ -52,26 +52,26 @@ table {
 /* stylelint-enable */
 
 #content {
-  /* 22px base w/ 1.414 ratio (https://www.modularscale.com/?22&px&1.414)
+  /* 20px base w/ 1.333 ratio (https://www.modularscale.com/?20&px&1.333)
       & 26px line height */
-  font-size: 1.375em; /* 22px/16px = 1.375em */
-  line-height: 1.181818em; /* 26px/22px = 1.181818em */
+  font-size: 1.25em; /* 20px/16px = 1.25em */
+  line-height: 1.3em; /* 26px/20px = 1.3em */
   font-family: "Open Sans", sans-serif;
   padding: 0 1em;
 }
 
 header {
-  font-size: 3.887313em; /* 62.197px/16px = 3.887313em */
-  line-height: 1.045066em; /* 65px/62.197px = 1.045066em */
+  font-size: 2.96075em; /* 47.372px/16px = 2.96075em */
+  line-height: 1.097695em; /* 52px/47.372px = 1.097695em */
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
-  padding: 0 0.353715em; /* 22px/62.197px = 0.353715em */
+  padding: 0 0.42219em; /* 20px/47.372px = 0.42219em */
 }
 
 h2 {
-  font-size: 1.999409em; /* 43.987px/22px = 1.999409em */
-  line-height: 1.182167em; /* 52px/43.987px = 1.182167em */
+  font-size: 1.7769em; /* 35.538px/20px = 1.7769em */
+  line-height: 1.097417em; /* 39px/35.538px = 1.097417em */
   font-family: "Doppio One", sans-serif;
   text-transform: uppercase;
   font-style: italic;
