@@ -107,6 +107,10 @@ h3 {
   padding-top: 0.433333em; /* 13px/30px = 0.433333em */
 }
 
+h2 + p {
+  padding-top: 0.325em;
+}
+
 img {
   width: 100%;
 }
