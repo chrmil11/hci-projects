@@ -132,6 +132,10 @@ a:hover {
   color: #00dddd;
 }
 
+ol {
+  padding: 0.65em;
+}
+
 input[type="submit"] {
   font-size: 1em;
   -webkit-border-radius: 0;
