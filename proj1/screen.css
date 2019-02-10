@@ -169,3 +169,17 @@ input[type="submit"] {
     padding-left: 10%;
   }
 }
+
+@media screen and (min-width: 994px) {
+  #content {
+    padding: 0 6em;
+  }
+
+  header {
+    padding: 0.42219em 2.533142em; /* 20px/47.372px = 0.42219em; 120px/47.372px = 2.533142em */
+  }
+
+  footer {
+    padding: 1.25em 7.5em; /* 20px / 16px = 1.25em */
+  }
+}
