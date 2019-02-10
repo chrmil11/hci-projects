@@ -152,6 +152,18 @@ input[type="submit"] {
 }
 
 @media screen and (min-width: 660px) {
+  #content {
+    padding: 0 3em;
+  }
+
+  header {
+    padding: 0.42219em 1.266571em; /* 20px/47.372px = 0.42219em; 60px/47.372px = 1.266571em */
+  }
+
+  footer {
+    padding: 1.25em 3.75em; /* 20px / 16px = 1.25em */
+  }
+
   img {
     width: 80%;
     padding-left: 10%;
